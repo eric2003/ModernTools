@@ -1,0 +1,1 @@
+py.exe ./remove_foder.py d:\work\python_work\ModernPython\codes
